@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://jhonnydev.vercel.app/">JhonnyDev</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="file:///C:/Users/andre/Downloads/DALL%C2%B7E%202024-11-11%2021.45.28%20-%20A%20digital%20design%20with%20the%20text%20'JhonnyDev'%20in%20bold,%20modern%20font,%20with%20the%20subtitle%20'Software%20Developer'%20below%20it%20in%20a%20smaller%20font.%20The%20design%20include.webp">
 
 
 
@@ -25,8 +25,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/JhonnyChems">
+  <img height="180em" src=""/>
+  <img height="180em" src=""/>
 </a>
 </p>
