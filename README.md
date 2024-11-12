@@ -20,7 +20,7 @@
 ### 🌍 Encuéntrame en
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhonnydev/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/jhonatancardona-desarollador-web/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/JhonnyDev" target="_blank" style="text-decoration: none;">
