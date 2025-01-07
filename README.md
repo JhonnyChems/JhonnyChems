@@ -53,7 +53,19 @@
 ### 🔥 Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/JhonnyChems/ProyectoDestacado" target="_blank">
+  <a href="https://github.com/JhonnyChems/ValidacionTarjeta.py" target="_blank">
+    <img src="https://img.shields.io/badge/-Ver Proyecto-0070f3?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
+  </a>
+  <a href="https://github.com/JhonnyChems/JhonnyDev" target="_blank">
+    <img src="https://img.shields.io/badge/-Ver Proyecto-0070f3?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
+  </a>
+  <a href="https://github.com/JhonnyChems/Chat-Bot" target="_blank">
+    <img src="https://img.shields.io/badge/-Ver Proyecto-0070f3?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
+  </a>
+  <a href="https://github.com/JhonnyChems/GameJavascript" target="_blank">
+    <img src="https://img.shields.io/badge/-Ver Proyecto-0070f3?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
+  </a>
+  <a href="https://github.com/JhonnyChems/Final-Valhalla" target="_blank">
     <img src="https://img.shields.io/badge/-Ver Proyecto-0070f3?style=flat&logo=github&logoColor=white" alt="Ver Proyecto" />
   </a>
 </p>
